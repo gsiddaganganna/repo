@@ -9,6 +9,7 @@
 --Version 8
 --Version 9 (Release 1.2)
 --Version 10(Release 1.3)
+--Version 11(Direct fix on prod)
 v_dummy varchar2(10);
 begin
 select dummy into v_dummy from dual;
